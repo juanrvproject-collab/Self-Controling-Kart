@@ -15,3 +15,9 @@ Now for the REMOTE we are going to use an ESP-32-Wroom, that is equiped with a b
 
 
 
+
+https://github.com/user-attachments/assets/32c44cc3-60c4-41d8-bb7d-4f29f2161fdf
+
+
+
+
